@@ -7,7 +7,9 @@ You should add your own `REACT_APP_API_KEY` in `.env` for [https://newsapi.org/d
 
 In the project directory, you can run:
 
-### `1. yarn start`
+### `1. yarn install`
+
+### `2. yarn start`
 
 1. Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
